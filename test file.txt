@@ -1,5 +1,5 @@
 10 test master
-20 test 2
+20 test remote
 30 test 3
 40 test 4
 50 test 5
