@@ -4,7 +4,7 @@
 40 test 4
 50 test 5
 60 test 6
-70 test 7 local edit
+70 test 7
 80 test 8
 90 test 9
 100 b1
